@@ -9,7 +9,7 @@ El programa presenta un menú interactivo que permite al cliente realizar las si
 - **Depositar Dinero:** Incrementar el saldo de la cuenta con un depósito.
 - **Salir:** Terminar la sesión.
   
-- ## Estructura del Código
+## Estructura del Código
 
 - **Clase `Main`**: Es el punto de entrada de la aplicación. Muestra la información del cliente y ejecuta la lógica del menú.
 - **Clase `Menu`**: Contiene la información del cliente (nombre, tipo de cuenta y saldo)  proporciona un menú para las acciones disponibles.
