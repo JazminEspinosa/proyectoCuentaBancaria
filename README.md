@@ -15,6 +15,6 @@ El programa presenta un menú interactivo que permite al cliente realizar las si
 - **Clase `Menu`**: Contiene la información del cliente (nombre, tipo de cuenta y saldo)  proporciona un menú para las acciones disponibles.
 - **Clase `Aplicacion`**: Controla las acciones del menú, como consultar saldo, retirar y depositar dinero.
 
-
+## Ejemplo de salida en consola al ejecutar la aplicacion
 
 ![Ejemplo de salida en consola al ejecutar la aplicacion ](img.png)
